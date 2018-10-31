@@ -8,3 +8,16 @@ https://www.udemy.com/spring-data-jpa-using-hibernate/  ->>> recommended
 https://codouken.com/articles/spring-boot-with-oracle-db-and-gradle
 https://springframework.guru/configuring-spring-boot-for-oracle/
 https://github.com/shawn-mcginty/spring-boot-oracle-example/blob/master/build.gradle
+
+//----STORED PROCEDURES
+
+https://www.thoughts-on-java.org/call-stored-procedures-jpa/
+https://www.thoughts-on-java.org/call-stored-procedures-jpa-part-2/
+https://www.tutorialspoint.com/springjdbc/springjdbc_stored_procedure.htm
+https://docs.spring.io/spring/docs/3.0.0.M4/reference/html/ch12s05.html
+https://www.mkyong.com/spring/how-to-autowire-datasource-in-jdbcdaosupport/
+https://www.logicbig.com/tutorials/spring-framework/spring-data-access-with-jdbc/connect-oracle.html
+https://stackoverflow.com/questions/48804984/spring-jdbctemplate-stored-procedure-with-resultset-and-output-parameter
+https://docs.spring.io/spring/docs/3.0.0.M4/reference/html/ch12s05.html
+https://stackoverflow.com/questions/29698164/jpa-2-1-error-no-namedstoredprocedurequery-was-found-with-that-name
+https://www.programcreek.com/java-api-examples/index.php?api=javax.persistence.StoredProcedureQuery
